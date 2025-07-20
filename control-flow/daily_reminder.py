@@ -22,3 +22,13 @@ else:
 
 # Print the final reminder
 print(message)
+Enter your task: Submit assignment
+Priority (high/medium/low): high
+Is it time-bound? (yes/no): yes
+
+Reminder: 'Submit assignment' is a high priority task that requires immediate attention today!
+Enter your task: Organize bookshelf
+Priority (high/medium/low): low
+Is it time-bound? (yes/no): no
+
+Note: 'Organize bookshelf' is a low priority task. Consider completing it when you have free time.
